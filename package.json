@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "homepage": "https://bokijano.github.io/jquery-about-car",
+  "homepage": "https://bokijano.github.io/jquery-cars",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
