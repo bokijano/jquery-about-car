@@ -1,0 +1,241 @@
+body {
+	background-color: LightGray;
+}
+
+#desno {
+	float: right;
+	margin-top: 5px;
+	margin-right: 60px;
+}
+
+#unos {
+	float: left;
+	width: 250px;
+	height: 40px;
+	background-color: rgb(66, 70, 72); 
+	color: black;
+	font-size: 15px;
+	font-weight: bolder;
+}
+
+
+#okvir {
+	background-color: rgb(192, 192, 192);
+	border: 2px solid rgb(66, 70, 72);
+	border-radius: 5px;
+	font-size: 17px;
+	font-weight: bolder;
+}
+
+#okvir:hover {
+	background-color: rgb(66, 70, 72);
+}
+
+#naslov {
+	height: 55px;
+	font-weight: bolder;
+	font-size: 17px;
+}
+
+.navbar {
+	height: 50px;
+}
+
+p {
+	text-align: justify;
+	padding-right: 10px;
+}
+
+#slika {
+	display: none;
+	background-color: rgb(192, 192, 192);
+	border-left: 20px solid rgb(66, 70, 72); 
+	border-right: 20px solid rgb(66, 70, 72);
+	border-radius: 10px;
+}
+
+#naslovna {
+	margin-top: 60px;
+}
+
+#animacija {
+	width: 50%;
+	height: 130px;
+    padding-top: 8px; 
+	border-radius:10px;
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bolder;
+	background-color:  rgb(66, 70, 72);
+	opacity: 0.1;
+}
+
+#tekst {
+	display: none;
+    background-color: white;
+	background-image: url("slike naslovna/smile.jpg");
+	background-repeat: repeat-y;
+	background-position: right;
+	border: 5px solid rgb(66,70,72);
+	border-radius: 10px;
+	margin-top: 60px;
+	padding-top: 50px;
+}
+
+a {
+	cursor: pointer;
+}
+a:hover {
+	text-decoration: none;
+}
+
+.pozadina {
+	background: grey;
+	color: white;
+	font-weight: bold;
+	font-family: monospace;
+	border: 1px solid black;
+}
+
+.zadebljanje {
+	font-family: monospace;
+	color: black;
+}
+
+#kurs {
+	cursor: pointer;
+	font-family: monospace;
+	text-align: center;
+
+}
+
+#car {
+	background-color: white;
+	max-width: 400px;
+	border: 2px solid rgb(66,70,72);
+	border-radius: 5px;
+	padding: 5px;
+}
+
+
+.sredina {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bolder;
+	font-family: monospace;
+}
+
+#strelica {
+	height: 5%;
+	max-width: 800px;
+	cursor: pointer;
+	border: 2px solid rgb(66,70,72);
+	border-radius: 5px;
+	opacity: 0.2;
+}
+
+#strelica1 {
+	height: 5%;
+	max-width: 800px;
+	cursor: pointer;
+	border: 2px solid rgb(66,70,72);
+	border-radius: 5px;
+	opacity: 0.2;
+}
+
+#levo {
+	float: left;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#oldtajmer {
+    margin-top: -8px;
+    max-width: 1200px;
+	display: none;
+	width: 100%;
+	height: 625px;
+	background-color: LightGray;
+    overflow: scroll;
+}
+#trkacki {
+    margin-top: -8px;
+    max-width: 1200px;
+	display: none;
+	width: 100%;
+	height: 625px;
+	background-color: LightGray;
+    overflow: scroll;
+}
+#luksuzni  {
+    margin-top: -8px;
+    max-width: 1200px;
+	display: none;
+	width: 100%;
+	height: 625px;
+	background-color: LightGray;
+    overflow: scroll;
+}
+
+#centar {
+	text-align: center;
+}
+
+.slika1,
+.slika2,
+.slika3,
+.slika4,
+.slika5,
+.slika6,
+.slika7,
+.slika8,
+.slika9,
+.slika10,
+.slika11,
+.slika12,
+.slika13,
+.slika14,
+.slika15,
+.slika16,
+.slika17,
+.slika18,
+.slika19,
+.slika20,
+.slika21,
+.slika22,
+.slika23,
+.slika24,
+.slika25 {
+	min-width: 100px;
+	display: none;
+}
+
+#pol1,
+#pol2,
+#pol3,
+#pol4,
+#pol5,
+#pol6,
+#pol7,
+#pol8,
+#pol9,
+#pol10,
+#pol11,
+#pol12,
+#pol13,
+#pol14,
+#pol15,
+#pol16,
+#pol17,
+#pol18,
+#pol19,
+#pol20,
+#pol21,
+#pol22,
+#pol23,
+#pol24,
+#pol25  {
+	float: right;
+}
+
